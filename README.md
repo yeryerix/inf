@@ -1,3 +1,4 @@
 INF
 # Рибсам Эд 142 группа
-![SSh](https://www.google.ru/url?sa=i&url=https%3A%2F%2Fabertoatedemadrugada.com%2F2022%2F05%2Fstarship-da-spacex-nao-sera-tao-barata.html&psig=AOvVaw1Ea2PZsstoRL1n5ZkU12am&ust=1664506083658000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPj7rfP-uPoCFQAAAAAdAAAAABAR) 
+![SSh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9MnPC34ivRXFb29-U51AnDOj3wNreMEJVC7-msLNluuAQ5PJOokwd1astCY4rxDhzhhTR5R60OmIFOb-A4zASMxjGlcAj7ntCE6Y1-WedRSNlyU1ZLjakEzMIPd-W2Jz9_qn8_rGI7qCF_KpjYmJJQpzMTJv-BWxJ2bQb44rUU06_BtkgM_SJcRLP_A/s1600/starship.jpg)
+
