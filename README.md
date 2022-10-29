@@ -18,4 +18,4 @@ __морзилка.py__ - _азбука морзе на питохе_
 
 __нейронки.png__ - _нейронные сети_
 
-![SSh] (Булева логика) https://github.com/yeryerix/inf/blob/main/Idempotentcy%20law.md
+__Idempotentcy law.md__ - _Булева логика | закон идемпотентности_
