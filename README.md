@@ -17,3 +17,5 @@ __абоба.png__ - _действия "автокликкера" в paint_
 __морзилка.py__ - _азбука морзе на питохе_
 
 __нейронки.png__ - _нейронные сети_
+
+[url=https://github.com/yeryerix/inf/blob/main/Idempotentcy%20law.md] Булева логика [/url]
