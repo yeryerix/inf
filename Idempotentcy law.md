@@ -7,3 +7,6 @@
  2)A + A = A
  
   $A \vee  A=A$
+
+
+18 $$A \to B = \overline{A} \vee B$$
