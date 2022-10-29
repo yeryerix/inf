@@ -19,3 +19,5 @@ __морзилка.py__ - _азбука морзе на питохе_
 __нейронки.png__ - _нейронные сети_
 
 __Idempotentcy law.md__ - _Булева логика | закон идемпотентности_
+
+https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/
