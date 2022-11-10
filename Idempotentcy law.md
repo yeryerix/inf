@@ -13,7 +13,7 @@
 
 
 
-$$\overline{E}_{1}^{2}=\sqrt{\frac{F\alpha^{x-1}}{(x-1)\cdot x}}+\alpha_{1}^{\frac{1}{2}}+\beta_{1}^{\frac{2}{3}}$$
+![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/96430806/200988488-318322c5-792a-4d82-85f6-e0467727a987.png)
 
 $$h_{max}=\frac{V^{2}}{2g}$$
 
