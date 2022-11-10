@@ -10,3 +10,6 @@
 
 
 18 $$A \to B = \overline{A} \vee B$$
+
+
+$$\overline{E}_{1}^{2}$$
