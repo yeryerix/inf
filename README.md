@@ -25,10 +25,11 @@ __Idempotentcy law.md__ - _Булева логика | закон идемпот
 flowchart LR
 
 A[10 класс] -->|переводной| B(11 класс)
-B --> C{Егэ}
+B -->|переводной| C{Егэ}
 C -->|мега хорош| D(ВУЗ)
 C -->|Здравствуй небо| E(Армия)
 C -->|Выгнали| F(пересдача)
+F --> B
 ```
 
 https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/
