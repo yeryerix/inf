@@ -24,7 +24,7 @@ __Idempotentcy law.md__ - _Булева логика | закон идемпот
 
 flowchart LR
 
-A[10 класс] -->|| B(Round)
+A[10 класс] -->|ф| B(Round)
 B --> C{Егэ}
 C -->|ВУЗ| D[Result 1]
 C -->|Армия| E[Result 2]
