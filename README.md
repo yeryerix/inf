@@ -20,14 +20,12 @@ __нейронки.png__ - _нейронные сети_
 
 __Idempotentcy law.md__ - _Булева логика | закон идемпотентности_
 
-flowchart LR
+'''mermide
 
 A[Hard] -->|Text| B(Round)
-
 B --> C{Decision}
-
 C -->|One| D[Result 1]
-
 C -->|Two| E[Result 2]
+'''
 
 https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/
