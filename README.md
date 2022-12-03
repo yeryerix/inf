@@ -22,6 +22,8 @@ __Idempotentcy law.md__ - _Булева логика | закон идемпот
 
 '''mermaid
 
+flowchart LR
+
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
