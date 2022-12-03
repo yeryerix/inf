@@ -20,7 +20,7 @@ __нейронки.png__ - _нейронные сети_
 
 __Idempotentcy law.md__ - _Булева логика | закон идемпотентности_
 
-'''mermide
+'''mermaid
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
