@@ -26,8 +26,8 @@ flowchart LR
 
 A[10 класс] -->|переводной| B(11 класс)
 B --> C{Егэ}
-C -->|ВУЗ| D[Result 1]
-C -->|Армия| E[Result 2]
+C -->|мега хорош| D(ВУЗ)
+C -->|Здравствуй небо| E(Армия)
 ```
 
 https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/
