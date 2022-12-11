@@ -38,3 +38,5 @@ elif need == 'I' or need == 'i' or need == 'Ш' or need == 'ш':
 
 else:
     print(" [ERROR] - Tы что-то не так ввёл, перезапусти программу и введи заново")
+
+    
