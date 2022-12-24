@@ -48,6 +48,6 @@ stateDiagram-v2
 63 --> 62: +1
 32 --> 31: +1
 32 --> 16: *2
-
+```
 
 https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/
