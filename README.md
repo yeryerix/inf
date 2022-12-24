@@ -20,6 +20,8 @@ __нейронки.png__ - _нейронные сети_
 
 __Idempotentcy law.md__ - _Булева логика | закон идемпотентности_
 
+Схемки:
+
 ```mermaid
 
 flowchart LR
@@ -31,5 +33,18 @@ C -->|Здравствуй небо| E(Армия)
 C -->|Выгнали| F(пересдача)
 F --> C
 ```
+
+stateDiagram-v2
+>=129 --> 128: +1
+>=129--> 65: *2
+128 --> 64: *2
+65 --> 64: +1 
+64 --> 63: +1
+64 --> 32: *2
+63 --> 62: +1
+32 --> 31: +1
+32 --> 16: *2
+
+
 
 https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/
