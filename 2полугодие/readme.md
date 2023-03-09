@@ -4,7 +4,7 @@
 | 2 |  |
 | 3 |  |
 | 4 |  |
-| 5 | [+](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/num%205.py)|
+| 5 | [py](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/num%205.py)|
 | 6 | +|
 | 7 |  |
 | 8 | +|
@@ -17,7 +17,7 @@
 | 15 |  |
 | 16 |  |
 | 17 |  |
-| 18 | 1099, 1026|
+| 18 | [xlsx](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/18.xlsx)|
 | 19 | 52 |
 | 20 | 32,63|
 | 21 | 94 |
