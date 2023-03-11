@@ -1,7 +1,7 @@
 | № | +/- |
 | - | - |
 | 1 |  |
-| 2 |  |
+| 2 | [py](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/2.py)|
 | 3 |  |
 | 4 |  |
 | 5 | [py](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/num%205.py)|
