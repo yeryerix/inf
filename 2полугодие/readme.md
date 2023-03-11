@@ -21,7 +21,7 @@
 | 19 | 52 |
 | 20 | 32,63|
 | 21 | 94 |
-| 22 |  |
+| 22 |  [xlsx](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/22.xlsx)|
 | 23 |  |
 | 24 |  |
 | 25 |  |
