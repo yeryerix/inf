@@ -22,7 +22,7 @@
 | 20 | 32,63|
 | 21 | 94 |
 | 22 |  [xlsx](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/22.xlsx)|
-| 23 |  |
+| 23 |  [py](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/23.py)|
 | 24 |  |
 | 25 |  |
 | 26 | [ods](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/26.ods) / [py](https://github.com/yeryerix/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5/26.py)|
